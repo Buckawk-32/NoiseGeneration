@@ -5,6 +5,8 @@ import pygame
 
 class Shader:
 
+# For Cube Test
+# --------------------------
     vertices = (
         (1, -1, -1),
         (1, 1, -1),
@@ -30,7 +32,7 @@ class Shader:
         (6, 4),
         (6, 7)
         )
-
+# --------------------------
 
     def __init__(self):
         pass
